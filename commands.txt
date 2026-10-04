@@ -1,0 +1,5 @@
+git init inizaliesd the git in to reop
+git clone copy the remote repo to local repo 
+git add stage the commit
+git commit saves the changes
+git pull send the file to remote repo
